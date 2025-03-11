@@ -37,11 +37,11 @@ This class contains the `main` method and provides an interactive console menu f
 ### Running the Program
 1. **Compile the Java files**:
    ```sh
-   javac LibrarySystem.java
+   javac Main.java
    ```
 2. **Run the program**:
    ```sh
-   java LibrarySystem
+   java Main
    ```
 3. **Follow the interactive menu** to add, remove, search, or display books.
 
